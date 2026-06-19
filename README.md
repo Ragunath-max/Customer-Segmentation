@@ -21,5 +21,11 @@ K-Means Clustering
 - Customer Clustering
 - Cluster Visualization
 
+## Internship Details
+- Company: CodeTech IT Solutions Pvt. Ltd.
+- Domain: Artificial Intelligence
+- Intern ID: CITS5193
+- Duration: 4 Weeks
+
 ## Output
 Customers are grouped into 5 different segments based on purchasing behavior.   
